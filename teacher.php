@@ -19,7 +19,7 @@
  </head>
  <body>
   <div id="header" class="clearfix">
-    <h1>Netaji Subhas Institute of Technology</h1>
+    <h1>St John College of Engineering and Management</h1>
     <h3>Teacher Dashboard</h3>	
   </div>
   <nav class="navbar navbar-default" id="sub-menu">  
