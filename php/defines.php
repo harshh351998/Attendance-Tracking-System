@@ -1,8 +1,8 @@
 <?php
-DEFINE('DB_USER','root');
-DEFINE('DB_PASS','');
-DEFINE('DB_HOST','localhost');
-DEFINE('DB_DB','attendance');
+DEFINE('DB_USER','oaoyeemicbnsgh');
+DEFINE('DB_PASS','70ad37447f3b2aa536442c8997b00b4cb382d9d0d7504f8f2350ccf1e90bf694');
+DEFINE('DB_HOST','ec2-52-207-93-32.compute-1.amazonaws.com');
+DEFINE('DB_DB','de5755u0g71jve');
 DEFINE('EMAIL',1);
 DEFINE('PHONE',2);
 DEFINE('ROLL',3);
