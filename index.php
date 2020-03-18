@@ -20,8 +20,8 @@
  </head>
  <body>
   <div id="header" class="clearfix">
-    <h1>Netaji St John College of Engineering and Management</h1>
-    <h3>Attendance Tracker</h3>	
+    <h1>St John College of Engineering and Management</h1>
+    <h3>Attendance Management</h3>	
   </div>
   <div class="container">
     <h2>For Students</h2>
